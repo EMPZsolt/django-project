@@ -23,12 +23,13 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-_t23wf4#g*&38*83)!kw^yqg+m65_h#j9t29x8gms71ja#$206'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['8000-empzsolt-djangoproject-eq3k1z6njgm.ws-eu107.gitpod.io',
                 '.herokuapp.com',
                 '8000-empzsolt-djangoproject-hzfmgem7mqh.ws-eu107.gitpod.io',
-                'git.heroku.com/django-hello-world-miniproject.git']
+                'git.heroku.com/django-hello-world-miniproject.git',
+                '8000-empzsolt-djangoproject-2ofqzgr3yu4.ws-eu107.gitpod.io']
 
 
 # Application definition

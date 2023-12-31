@@ -27,7 +27,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['8000-empzsolt-djangoproject-eq3k1z6njgm.ws-eu107.gitpod.io',
                 '.herokuapp.com',
-                '8000-empzsolt-djangoproject-hzfmgem7mqh.ws-eu107.gitpod.io']
+                '8000-empzsolt-djangoproject-hzfmgem7mqh.ws-eu107.gitpod.io',
+                'git.heroku.com/django-hello-world-miniproject.git']
 
 
 # Application definition
